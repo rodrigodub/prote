@@ -1,0 +1,14 @@
+'Rehab','C',1,'Cult/Envi Cleared'
+
+'Rehab','DC',4,'Drilling Completed'
+
+'Rehab','DP',3,'Drilling in Progress'
+
+'Rehab','M',0,'Marked'
+
+'Rehab','P',2,'Prepared'
+
+'Rehab','RF',6,'Fully Rehabilitated'
+
+'Rehab','RS',5,'Sumps Rehabilitated'
+

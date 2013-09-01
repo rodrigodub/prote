@@ -1,0 +1,61 @@
+#################################################
+## Protê
+## Processador de Texto
+## 
+## CONTROLE DE QUALIDADE
+## 
+## Rodrigo Nobrega
+## 20130827
+#################################################
+
+Este documento se propõe a avaliar o software desenvolvido.
+
+OK ::: O sistema recebe um arquivo texto de entrada e gera um arquivo texto de saída. 
+CHANGED ::: O nome do arquivo texto de saída é incrementado automaticamente (_001.txt, _002.txt, etc) 
+de modo a permitir a contínua reutilização do último arquivo.
+OK ::: O processamento realizado consiste em substituir uma string de entrada por uma string de saída.
+
+
+OK ::: Utilização prevista:
+---------------------
+OK ::: Prote(Parametro1, Parametro2, Parametro3)
+onde:
+OK ::: Parametro1: nome do arquivo de entrada
+OK ::: Parametro2: string de entrada a ser substituída
+OK ::: Parametro3: string de saída
+
+
+#################################################
+## Protê
+## Processador de Texto
+## 
+## Especificação de requisitos
+## 
+## Rodrigo Nobrega
+## 20130730
+#################################################
+
+Este documento se propõe a descrever os requisitos para um sistema de processamento básico de textos.
+
+O sistema recebe um arquivo texto de entrada e gera um arquivo texto de saída. 
+O nome do arquivo texto de saída é incrementado automaticamente (_001.txt, _002.txt, etc) 
+de modo a permitir a contínua reutilização do último arquivo.
+O processamento realizado consiste em substituir uma string de entrada por uma string de saída.
+
+
+
+Utilização prevista:
+---------------------
+
+Prote(Parametro1, Parametro2, Parametro3)
+
+onde:
+
+Parametro1: nome do arquivo de entrada
+Parametro2: string de entrada a ser substituída
+Parametro3: string de saída
+
+
+
+
+

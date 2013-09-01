@@ -1,0 +1,234 @@
+
+*************************************************************
+	acQuire Briefcase Started at 30/07/2013 3:43:49 PM
+*************************************************************
+
+=====================================================================
+Copying All Reference-Validation-Meta Data from C:\Users\RNOBRE~1.MET\AppData\Local\Temp\acq6.mdb to 55168_Acquire_Prod 
+
+Copying 3 records from DATATYPE to DATATYPE
+Copying 449 records from GDDATUM to GDDATUM
+Copying 2 records from GDTRANSFORMATIONTYPE to GDTRANSFORMATIONTYPE
+Copying 54 records from GDUNITS to GDUNITS
+Copying 2 records from HOLETYPE to HOLETYPE
+Copying 12 records from ANALYSISMETHOD to ANALYSISMETHOD
+Copying 8 records from ANALYSISSUITE to ANALYSISSUITE
+Copying 0 records from AREA to AREA
+Copying 0 records from ASSAYGENERICCODE to ASSAYGENERICCODE
+Copying 3 records from AZIMUTHTYPE to AZIMUTHTYPE
+Copying 11 records from CHECKSTAGE to CHECKSTAGE
+Copying 6 records from CLCONTFLAG to CLCONTFLAG
+Copying 10 records from COMPANY to COMPANY
+Copying 0 records from DESPATCHRETCOMCODE to DESPATCHRETCOMCODE
+Copying 1 records from DIAMETERTYPE to DIAMETERTYPE
+Copying 0 records from DIGESTDEGREE to DIGESTDEGREE
+Copying 3 records from DIGESTTYPE to DIGESTTYPE
+Copying 0 records from DRILLINGACTIVITY to DRILLINGACTIVITY
+Copying 1 records from DRILLTYPE to DRILLTYPE
+Copying 3 records from GDGRIDTYPE to GDGRIDTYPE
+Copying 777 records from GDLOCALDATUMTRANSFORM to GDLOCALDATUMTRANSFORM
+Copying 718 records from GDPROJECTION to GDPROJECTION
+Copying 3 records from GDSURVEYMETHOD to GDSURVEYMETHOD
+Copying 4 records from GEOLOGYCODEPRIMARY to GEOLOGYCODEPRIMARY
+Copying 0 records from GEOPHYSCODECATEGORY to GEOPHYSCODECATEGORY
+Copying 0 records from GEOPHYSHEADERCATEGORY to GEOPHYSHEADERCATEGORY
+Copying 0 records from HOLEBIGCOMMENTCODE to HOLEBIGCOMMENTCODE
+Copying 5 records from HOLECOMMENTCODE to HOLECOMMENTCODE
+Copying 0 records from PREPARATION to PREPARATION
+Copying 5 records from SAMPLECOMMENTCODE to SAMPLECOMMENTCODE
+Copying 0 records from SAMPLEDESPATCHCOMCODE to SAMPLEDESPATCHCOMCODE
+Copying 16 records from SAMPLETYPE to SAMPLETYPE
+Copying 1 records from SHIFT to SHIFT
+Copying 6 records from STANDARDSTYPE to STANDARDSTYPE
+Copying 0 records from SURVEYCOMMENTCODE to SURVEYCOMMENTCODE
+Copying 5 records from SURVEYTYPE to SURVEYTYPE
+Copying 16 records from TENEMENT to TENEMENT
+Copying 0 records from TENEMENTCOMMENTCODE to TENEMENTCOMMENTCODE
+Copying 8 records from UNITSTYPE to UNITSTYPE
+Copying 9 records from ASSAYLABORATORY to ASSAYLABORATORY
+Copying 0 records from CONTRACT to CONTRACT
+Copying 0 records from ELEMENTTYPE to ELEMENTTYPE
+Copying 5 records from GEOBIGCOMMENTCODE to GEOBIGCOMMENTCODE
+Copying 1 records from GEOCOMMENTCODE to GEOCOMMENTCODE
+Copying 0 records from GEOPHYSHEADERBIGCOMMENTCODE to GEOPHYSHEADERBIGCOMMENTCODE
+Copying 0 records from GEOPHYSHEADERCOMMENTCODE to GEOPHYSHEADERCOMMENTCODE
+Copying 5 records from GRID to GRID
+Copying 15 records from PROJECT to PROJECT
+Copying 14 records from STANDARDSDEFINITION to STANDARDSDEFINITION
+Copying 0 records from TENEMENTCOMMENT to TENEMENTCOMMENT
+Copying 49 records from UNITS to UNITS
+Copying 0 records from AREACODE to AREACODE
+Copying 0 records from CONTRACTDETAILS to CONTRACTDETAILS
+Copying 4 records from CORPASSAYSTATUS to CORPASSAYSTATUS
+Copying 0 records from COST to COST
+Copying 0 records from COSTCODE to COSTCODE
+Copying 2 records from DA_SOFTZONES to DA_SOFTZONES
+ERROR: Field Name not found in GeologyCodeSecondary
+VFTABLE = 'GEOLOGYCODESECONDARY'  VFNAME = 'Rock_Code'  SOFTZONE = 'KL'  DESCRIPTION = 'Core Loss'  
+
+ERROR: Field Name not found in GeologyCodeSecondary
+VFTABLE = 'GEOLOGYCODESECONDARY'  VFNAME = 'Rock_Code'  SOFTZONE = 'NR'  DESCRIPTION = 'No Recovery'  
+
+Copying 2 records from DESPATCHCODE to DESPATCHCODE
+Copying 0 records from DESPATCHRETCODE to DESPATCHRETCODE
+Copying 0 records from DRILLHOLEDIAMCODE to DRILLHOLEDIAMCODE
+Copying 174 records from ELEMENT to ELEMENT
+Copying 4 records from GDCOORDINATESET to GDCOORDINATESET
+Copying 80 records from GEOLOGYCODESECONDARY to GEOLOGYCODESECONDARY
+Copying 86 records from GEOPHYSCODE to GEOPHYSCODE
+Copying 46 records from GEOPHYSHEADERDETAILSCODE to GEOPHYSHEADERDETAILSCODE
+Copying 0 records from GEOPHYSLOOP to GEOPHYSLOOP
+Copying 0 records from GEOPHYSLOOPCODE to GEOPHYSLOOPCODE
+Copying 0 records from GRIDCODE to GRIDCODE
+Copying 0 records from GRIDPICKUP to GRIDPICKUP
+Copying 49 records from HOLECODE to HOLECODE
+Copying 0 records from PROJECTCODE to PROJECTCODE
+Copying 0 records from PROSPECT to PROSPECT
+Copying 0 records from PROSPECTCODE to PROSPECTCODE
+Copying 25 records from SAMPLECODE to SAMPLECODE
+Copying 0 records from SAMPLEDESPATCHCODE to SAMPLEDESPATCHCODE
+Copying 0 records from STANDARDSDEFCODE to STANDARDSDEFCODE
+Copying 2 records from SURVEYCODE to SURVEYCODE
+Copying 0 records from TENEMENTCODE to TENEMENTCODE
+Copying 9 records from UNITCONVERSION to UNITCONVERSION
+Copying 0 records from WATERCODE to WATERCODE
+Copying 0 records from AREADETAILS to AREADETAILS
+Copying 388 records from ASSAYTYPE to ASSAYTYPE
+Copying 0 records from COSTDETAILS to COSTDETAILS
+Copying 0 records from GEOPHYSLOOPCOORD to GEOPHYSLOOPCOORD
+Copying 0 records from GEOPHYSLOOPDETAILS to GEOPHYSLOOPDETAILS
+Copying 0 records from PROJECTDETAILS to PROJECTDETAILS
+Copying 0 records from PROSPECTDETAILS to PROSPECTDETAILS
+Copying 0 records from STANDARDSDEFDETAILS to STANDARDSDEFDETAILS
+Copying 0 records from TENEMENTDETAILS to TENEMENTDETAILS
+Copying 0 records from ASSAYDETECTION to ASSAYDETECTION
+Copying 274 records from CORPASSAYTRANS to CORPASSAYTRANS
+Copying 0 records from GRIDDETAILS to GRIDDETAILS
+Copying 106 records from STANDARDSASSAY to STANDARDSASSAY
+Copying 22 records from SUITEDEFINITION to SUITEDEFINITION
+Updating META table: METATABLE
+Updating META table: METAFIELD
+Updating META table: METAFUNCTION
+Updating META table: METADEFAULTS
+Updating META table: METASQLREF
+Updating META table: METASQL
+Updating META table: METAASSAYEXPORT
+Updating META table: METAASSAYRULE
+Updating META table: METACLIENTALIASES
+Updating META table: METAIMPORTALIASES
+Updating META table: METACALCULATEDFIELD
+Updating META table: METAVIEWTYPE
+Updating META table: METAFORMDEFINITION
+Updating META table: METAFORMDEFINITIONFIELD
+Updating META table: METAFORMDEFINITIONDETAILS
+Updating META table: METAFORMDEFINITIONFILTER
+Updating META table: METASQLEXPREF
+Updating META table: METASQLEXPFIELD
+Updating META table: METASQLEXP
+Copying 63 records from QV_VS_FIELD_RW to QV_VS_FIELD_RW
+Copying 0 records from QV_VS_DSRANGE_RW to QV_VS_DSRANGE_RW
+Copying 0 records from QV_VS_DVRANGE_RW to QV_VS_DVRANGE_RW
+Copying 1177 records from QV_VS_LOOKUP_RW to QV_VS_LOOKUP_RW
+ERROR: FIELDNAME not found!
+FIELDTABLE = 'ASSAYTYPE'  FIELDNAME = 'MFA_DE_lab_analyst'  LOOKUP = 'Adam'  NUMEQUIV = NULL  FIELDORDER = 2  DESCRIPTION = 'Adam Vallis'  REPORTDESC = NULL  PATTERN = NULL  FONT = NULL  TEXTCOLOR = NULL  BACKCOLOR = NULL  SUBGROUP = NULL  ACTIVE = 1  
+
+ERROR: FIELDNAME not found!
+FIELDTABLE = 'ASSAYTYPE'  FIELDNAME = 'MFA_DE_lab_analyst'  LOOKUP = 'Emily'  NUMEQUIV = NULL  FIELDORDER = 1  DESCRIPTION = 'Emily Dignam'  REPORTDESC = NULL  PATTERN = NULL  FONT = NULL  TEXTCOLOR = NULL  BACKCOLOR = NULL  SUBGROUP = NULL  ACTIVE = 1  
+
+ERROR: FIELDNAME not found!
+FIELDTABLE = 'ASSAYTYPE'  FIELDNAME = 'MFA_DE_lab_analyst'  LOOKUP = 'Melissa'  NUMEQUIV = NULL  FIELDORDER = 0  DESCRIPTION = 'Melissa Haggarty'  REPORTDESC = NULL  PATTERN = NULL  FONT = NULL  TEXTCOLOR = NULL  BACKCOLOR = NULL  SUBGROUP = NULL  ACTIVE = 1  
+
+ERROR: FIELDNAME not found!
+FIELDTABLE = 'ASSAYTYPE'  FIELDNAME = 'MFA_DE_lab_analyst'  LOOKUP = 'Other'  NUMEQUIV = NULL  FIELDORDER = 3  DESCRIPTION = 'unknown Lab Tech'  REPORTDESC = NULL  PATTERN = NULL  FONT = NULL  TEXTCOLOR = NULL  BACKCOLOR = NULL  SUBGROUP = NULL  ACTIVE = 1  
+
+ERROR: FIELDNAME not found!
+FIELDTABLE = 'HOLECODE'  FIELDNAME = 'Rehab'  LOOKUP = 'C'  NUMEQUIV = NULL  FIELDORDER = 1  DESCRIPTION = 'Cult/Envi Cleared'  REPORTDESC = NULL  PATTERN = NULL  FONT = NULL  TEXTCOLOR = NULL  BACKCOLOR = NULL  SUBGROUP = NULL  ACTIVE = 1  
+
+ERROR: FIELDNAME not found!
+FIELDTABLE = 'HOLECODE'  FIELDNAME = 'Rehab'  LOOKUP = 'DC'  NUMEQUIV = NULL  FIELDORDER = 4  DESCRIPTION = 'Drilling Completed'  REPORTDESC = NULL  PATTERN = NULL  FONT = NULL  TEXTCOLOR = NULL  BACKCOLOR = NULL  SUBGROUP = NULL  ACTIVE = 1  
+
+ERROR: FIELDNAME not found!
+FIELDTABLE = 'HOLECODE'  FIELDNAME = 'Rehab'  LOOKUP = 'DP'  NUMEQUIV = NULL  FIELDORDER = 3  DESCRIPTION = 'Drilling in Progress'  REPORTDESC = NULL  PATTERN = NULL  FONT = NULL  TEXTCOLOR = NULL  BACKCOLOR = NULL  SUBGROUP = NULL  ACTIVE = 1  
+
+ERROR: FIELDNAME not found!
+FIELDTABLE = 'HOLECODE'  FIELDNAME = 'Rehab'  LOOKUP = 'M'  NUMEQUIV = NULL  FIELDORDER = 0  DESCRIPTION = 'Marked'  REPORTDESC = NULL  PATTERN = NULL  FONT = NULL  TEXTCOLOR = NULL  BACKCOLOR = NULL  SUBGROUP = NULL  ACTIVE = 1  
+
+ERROR: FIELDNAME not found!
+FIELDTABLE = 'HOLECODE'  FIELDNAME = 'Rehab'  LOOKUP = 'P'  NUMEQUIV = NULL  FIELDORDER = 2  DESCRIPTION = 'Prepared'  REPORTDESC = NULL  PATTERN = NULL  FONT = NULL  TEXTCOLOR = NULL  BACKCOLOR = NULL  SUBGROUP = NULL  ACTIVE = 1  
+
+ERROR: FIELDNAME not found!
+FIELDTABLE = 'HOLECODE'  FIELDNAME = 'Rehab'  LOOKUP = 'RF'  NUMEQUIV = NULL  FIELDORDER = 6  DESCRIPTION = 'Fully Rehabilitated'  REPORTDESC = NULL  PATTERN = NULL  FONT = NULL  TEXTCOLOR = NULL  BACKCOLOR = NULL  SUBGROUP = NULL  ACTIVE = 1  
+
+ERROR: FIELDNAME not found!
+FIELDTABLE = 'HOLECODE'  FIELDNAME = 'Rehab'  LOOKUP = 'RS'  NUMEQUIV = NULL  FIELDORDER = 5  DESCRIPTION = 'Sumps Rehabilitated'  REPORTDESC = NULL  PATTERN = NULL  FONT = NULL  TEXTCOLOR = NULL  BACKCOLOR = NULL  SUBGROUP = NULL  ACTIVE = 1  
+
+Copying 2 records from QV_VS_NSRANGE_RW to QV_VS_NSRANGE_RW
+Copying 1 records from QV_VS_NVRANGE_RW to QV_VS_NVRANGE_RW
+Copying 8 records from QV_VS_INTREF_RW to QV_VS_INTREF_RW
+Copying 0 records from QV_VS_EXTREF_RW to QV_VS_EXTREF_RW
+Copying 151 records from QV_VS_PROJECT_RW to QV_VS_PROJECT_RW
++++++++++++++++   Transfer finished with 13 error(s)   +++++++++++++++
+
+
+=====================================================================
+Copying All Main Data from C:\Users\RNOBRE~1.MET\AppData\Local\Temp\acq6.mdb to 55168_Acquire_Prod 
+
+Copying 39 records from QV_DESPATCHSEND_ORIGDESP to DESPATCHSEND
+Copying 4 records from HOLELOCATION to HOLELOCATION
+Copying 32 records from DA_TIELINE to DA_TIELINE
+Copying 4 records from DESPATCHDETAILS to DESPATCHDETAILS
+Copying 226 records from DESPATCHRETURN to DESPATCHRETURN
+Copying 0 records from DRILLHOLEDIAMETER to DRILLHOLEDIAMETER
+Copying 0 records from DRILLINGDETAIL to DRILLINGDETAIL
+Copying 1726 records from GEOINTERVAL to GEOINTERVAL
+Copying 0 records from HOLEBIGCOMMENT to HOLEBIGCOMMENT
+Copying 8 records from HOLECOMMENT to HOLECOMMENT
+Copying 4 records from HOLECOORD to HOLECOORD
+Copying 89 records from HOLEDETAILS to HOLEDETAILS
+Copying 586 records from HOLESURVEY to HOLESURVEY
+Copying 762 records from SAMPLE to SAMPLE
+Copying 0 records from WATERTABLE to WATERTABLE
+Copying from QV_CHECKSAMPLE_LEVEL_Q to CHECKSAMPLE
+Copying 127 records from CORPLABPROPERTIES to CORPLABPROPERTIES
+Copying 0 records from DA_GEOINTERVAL_ORIG_POS to DA_GEOINTERVAL_ORIG_POS
+Copying 0 records from DA_SAMPLE_ORIG_POS to DA_SAMPLE_ORIG_POS
+Copying 0 records from DESPATCHRETCOMMENT to DESPATCHRETCOMMENT
+Copying 0 records from DESPATCHRETDETAILS to DESPATCHRETDETAILS
+Copying 0 records from DRILLHOLEDIAMDETAILS to DRILLHOLEDIAMDETAILS
+Copying 379 records from GEOBIGCOMMENT to GEOBIGCOMMENT
+Copying 20 records from GEOCOMMENT to GEOCOMMENT
+Copying 17854 records from GEODETAILS to GEODETAILS
+Copying 0 records from POINTGEOBIGCOMMENT to POINTGEOBIGCOMMENT
+Copying 0 records from POINTGEOCOMMENT to POINTGEOCOMMENT
+Copying 0 records from POINTGEOLOGY to POINTGEOLOGY
+Copying 0 records from SAMPLEASSAY to SAMPLEASSAY
+Copying 1 records from SAMPLECOMMENT to SAMPLECOMMENT
+Copying 0 records from SAMPLECOORD to SAMPLECOORD
+Copying 736 records from SAMPLEDESPATCH to SAMPLEDESPATCH
+Copying 4132 records from SAMPLEDETAILS to SAMPLEDETAILS
+Copying 586 records from SURVEYAZIMUTH to SURVEYAZIMUTH
+Copying 0 records from SURVEYCOMMENT to SURVEYCOMMENT
+Copying 582 records from SURVEYDETAILS to SURVEYDETAILS
+Copying 0 records from WATERDETAILS to WATERDETAILS
+Copying 0 records from CHECKASSAY to CHECKASSAY
+Copying 0 records from CHECKCOMMENT to CHECKCOMMENT
+Copying 68 records from CHECKDESPATCH to CHECKDESPATCH
+Copying 36 records from CHECKDETAILS to CHECKDETAILS
+Copying 0 records from CHECKGEOBIGCOMMENT to CHECKGEOBIGCOMMENT
+Copying 0 records from CHECKGEOCOMMENT to CHECKGEOCOMMENT
+Copying 0 records from CHECKGEOLOGY to CHECKGEOLOGY
+Copying 12340 records from CORPSAMPLEASSAY to CORPSAMPLEASSAY
+Copying 0 records from DA_GEOBIGCOMMENT_ORIG_POS to DA_GEOBIGCOMMENT_ORIG_POS
+Copying 0 records from DA_GEOCOMMENT_ORIG_POS to DA_GEOCOMMENT_ORIG_POS
+Copying 0 records from DA_GEODETAILS_ORIG_POS to DA_GEODETAILS_ORIG_POS
+Copying 0 records from SAMPLEDESPATCHCOMMENT to SAMPLEDESPATCHCOMMENT
+Copying 0 records from SAMPLEDESPATCHDETAILS to SAMPLEDESPATCHDETAILS
+Copying 0 records from CHECKDESPATCHCOMMENT to CHECKDESPATCHCOMMENT
+Copying 0 records from CHECKDESPATCHDETAILS to CHECKDESPATCHDETAILS
+Copying 1078 records from CORPCHECKASSAY to CORPCHECKASSAY
++++++++++++++++   Transfer finished with 13 error(s)   +++++++++++++++
+
+
+*************************************************************
+	acQuire Briefcase Finished at 30/07/2013 3:46:46 PM
+*************************************************************

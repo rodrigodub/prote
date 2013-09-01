@@ -1,0 +1,494 @@
+<root>
+	<task>
+		<taskid>13</taskid>
+		<title>As a customer I want Prote ported to Javascript / Ajax</title>
+		<description></description>
+		<type>Feature request</type>
+		<assignee>None</assignee>
+		<subtasks>0</subtasks>
+		<subtaskscomplete>0</subtaskscomplete>
+		<color>#809f80</color>
+		<priority>Average</priority>
+		<size></size>
+		<deadline></deadline>
+		<extlink></extlink>
+		<tags></tags>
+		<leadtime>23</leadtime>
+		<blocked>0</blocked>
+		<blockedreason></blockedreason>
+		<columnname>Backlog</columnname>
+		<lanename>Default Swimlane</lanename>
+		<subtaskdetails>none</subtaskdetails>
+		<columnid>backlog_5</columnid>
+		<laneid>4</laneid>
+		<loggedtime>0</loggedtime>
+		<comments>none</comments>
+		<transitions>
+			<column>Backlog</column>
+			<start>2013-08-04 15:40:17</start>
+			<end>now</end>
+			<elapsedtime>1974709</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+		</transitions>
+	</task>
+	<task>
+		<taskid>61</taskid>
+		<title>As a user I want to run the app by double-clicking an icon</title>
+		<description></description>
+		<type>Feature request</type>
+		<assignee>None</assignee>
+		<subtasks>0</subtasks>
+		<subtaskscomplete>0</subtaskscomplete>
+		<color>#809f80</color>
+		<priority>Average</priority>
+		<size></size>
+		<deadline></deadline>
+		<extlink></extlink>
+		<tags></tags>
+		<leadtime>4</leadtime>
+		<blocked>0</blocked>
+		<blockedreason></blockedreason>
+		<columnname>Requested</columnname>
+		<lanename>Default Swimlane</lanename>
+		<subtaskdetails>none</subtaskdetails>
+		<columnid>requested_1</columnid>
+		<laneid>4</laneid>
+		<loggedtime>0</loggedtime>
+		<comments>none</comments>
+		<transitions>
+			<column>Backlog</column>
+			<start>2013-08-23 17:53:19</start>
+			<end>2013-08-23 17:53:26</end>
+			<elapsedtime>7</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Requested</column>
+			<start>2013-08-23 17:53:26</start>
+			<end>now</end>
+			<elapsedtime>325120</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+		</transitions>
+	</task>
+	<task>
+		<taskid>11</taskid>
+		<title>As a Prote user I want to interactively inform the name of the file, and the strings to be replaced</title>
+		<description></description>
+		<type>Feature request</type>
+		<assignee>nobrega</assignee>
+		<subtasks>0</subtasks>
+		<subtaskscomplete>0</subtaskscomplete>
+		<color>#809f80</color>
+		<priority>Average</priority>
+		<size></size>
+		<deadline></deadline>
+		<extlink></extlink>
+		<tags></tags>
+		<leadtime>24</leadtime>
+		<blocked>0</blocked>
+		<blockedreason></blockedreason>
+		<columnname>Done</columnname>
+		<lanename>Default Swimlane</lanename>
+		<subtaskdetails>none</subtaskdetails>
+		<columnid>done_3</columnid>
+		<laneid>4</laneid>
+		<loggedtime>0</loggedtime>
+		<comments>none</comments>
+		<transitions>
+			<column>Backlog</column>
+			<start>2013-08-03 13:44:25</start>
+			<end>2013-08-04 09:40:56</end>
+			<elapsedtime>71791</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Requested</column>
+			<start>2013-08-04 09:40:56</start>
+			<end>2013-08-04 09:46:52</end>
+			<elapsedtime>356</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>In Progress</column>
+			<start>2013-08-04 09:46:52</start>
+			<end>2013-08-04 10:11:09</end>
+			<elapsedtime>1457</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Done</column>
+			<start>2013-08-04 10:11:09</start>
+			<end>now</end>
+			<elapsedtime>1994457</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+		</transitions>
+	</task>
+	<task>
+		<taskid>54</taskid>
+		<title>As the product owner I want the PROTE class INIT method implemented</title>
+		<description></description>
+		<type>Feature request</type>
+		<assignee>nobrega</assignee>
+		<subtasks>0</subtasks>
+		<subtaskscomplete>0</subtaskscomplete>
+		<color>#809f80</color>
+		<priority>Average</priority>
+		<size></size>
+		<deadline></deadline>
+		<extlink></extlink>
+		<tags></tags>
+		<leadtime>12</leadtime>
+		<blocked>0</blocked>
+		<blockedreason></blockedreason>
+		<columnname>Done</columnname>
+		<lanename>Default Swimlane</lanename>
+		<subtaskdetails>none</subtaskdetails>
+		<columnid>done_3</columnid>
+		<laneid>4</laneid>
+		<loggedtime>0</loggedtime>
+		<comments>none</comments>
+		<transitions>
+			<column>Backlog</column>
+			<start>2013-08-15 10:39:21</start>
+			<end>2013-08-15 10:39:32</end>
+			<elapsedtime>11</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Requested</column>
+			<start>2013-08-15 10:39:32</start>
+			<end>2013-08-15 10:48:54</end>
+			<elapsedtime>562</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>In Progress</column>
+			<start>2013-08-15 10:48:54</start>
+			<end>2013-08-15 12:10:15</end>
+			<elapsedtime>4881</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Done</column>
+			<start>2013-08-15 12:10:15</start>
+			<end>now</end>
+			<elapsedtime>1036911</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+		</transitions>
+	</task>
+	<task>
+		<taskid>55</taskid>
+		<title>As developer I want the GUI Classes documented so that I can start developing</title>
+		<description></description>
+		<type>Feature request</type>
+		<assignee>nobrega</assignee>
+		<subtasks>0</subtasks>
+		<subtaskscomplete>0</subtaskscomplete>
+		<color>#99b3e6</color>
+		<priority>Average</priority>
+		<size></size>
+		<deadline></deadline>
+		<extlink></extlink>
+		<tags></tags>
+		<leadtime>8</leadtime>
+		<blocked>0</blocked>
+		<blockedreason></blockedreason>
+		<columnname>Done</columnname>
+		<lanename>Default Swimlane</lanename>
+		<subtaskdetails>none</subtaskdetails>
+		<columnid>done_3</columnid>
+		<laneid>4</laneid>
+		<loggedtime>0</loggedtime>
+		<comments>none</comments>
+		<transitions>
+			<column>Backlog</column>
+			<start>2013-08-19 11:32:16</start>
+			<end>2013-08-19 11:36:36</end>
+			<elapsedtime>260</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Requested</column>
+			<start>2013-08-19 11:36:36</start>
+			<end>2013-08-19 11:37:02</end>
+			<elapsedtime>26</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>In Progress</column>
+			<start>2013-08-19 11:37:02</start>
+			<end>2013-08-19 16:30:17</end>
+			<elapsedtime>17595</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Done</column>
+			<start>2013-08-19 16:30:17</start>
+			<end>now</end>
+			<elapsedtime>675709</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+		</transitions>
+	</task>
+	<task>
+		<taskid>12</taskid>
+		<title>As a Prote user I want to be able to select files in different directories, disregarding OS</title>
+		<description></description>
+		<type>Feature request</type>
+		<assignee>nobrega</assignee>
+		<subtasks>0</subtasks>
+		<subtaskscomplete>0</subtaskscomplete>
+		<color>#809f80</color>
+		<priority>Average</priority>
+		<size></size>
+		<deadline></deadline>
+		<extlink></extlink>
+		<tags></tags>
+		<leadtime>23</leadtime>
+		<blocked>0</blocked>
+		<blockedreason></blockedreason>
+		<columnname>Done</columnname>
+		<lanename>Default Swimlane</lanename>
+		<subtaskdetails>none</subtaskdetails>
+		<columnid>done_3</columnid>
+		<laneid>4</laneid>
+		<loggedtime>0</loggedtime>
+		<comments>none</comments>
+		<transitions>
+			<column>Backlog</column>
+			<start>2013-08-04 09:40:01</start>
+			<end>2013-08-15 12:10:34</end>
+			<elapsedtime>959433</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Requested</column>
+			<start>2013-08-15 12:10:34</start>
+			<end>2013-08-19 16:31:04</end>
+			<elapsedtime>361230</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>In Progress</column>
+			<start>2013-08-19 16:31:04</start>
+			<end>2013-08-22 16:48:39</end>
+			<elapsedtime>260255</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Done</column>
+			<start>2013-08-22 16:48:39</start>
+			<end>now</end>
+			<elapsedtime>415407</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+		</transitions>
+	</task>
+	<task>
+		<taskid>10</taskid>
+		<title>As a Prote user I want to interact with a Graphical User Interface</title>
+		<description></description>
+		<type>Feature request</type>
+		<assignee>nobrega</assignee>
+		<subtasks>0</subtasks>
+		<subtaskscomplete>0</subtaskscomplete>
+		<color>#809f80</color>
+		<priority>Average</priority>
+		<size></size>
+		<deadline></deadline>
+		<extlink></extlink>
+		<tags></tags>
+		<leadtime>24</leadtime>
+		<blocked>0</blocked>
+		<blockedreason></blockedreason>
+		<columnname>Done</columnname>
+		<lanename>Default Swimlane</lanename>
+		<subtaskdetails>none</subtaskdetails>
+		<columnid>done_3</columnid>
+		<laneid>4</laneid>
+		<loggedtime>0</loggedtime>
+		<comments>none</comments>
+		<transitions>
+			<column>Backlog</column>
+			<start>2013-08-03 13:41:27</start>
+			<end>2013-08-15 12:10:29</end>
+			<elapsedtime>1031342</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Requested</column>
+			<start>2013-08-15 12:10:29</start>
+			<end>2013-08-19 16:31:00</end>
+			<elapsedtime>361231</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>In Progress</column>
+			<start>2013-08-19 16:31:00</start>
+			<end>2013-08-22 16:48:41</end>
+			<elapsedtime>260261</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Done</column>
+			<start>2013-08-22 16:48:41</start>
+			<end>now</end>
+			<elapsedtime>415405</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+		</transitions>
+	</task>
+	<task>
+		<taskid>58</taskid>
+		<title>As a user I don&apos;t want the annoying extra tk window each time I select the file</title>
+		<description></description>
+		<type>Bug</type>
+		<assignee>nobrega</assignee>
+		<subtasks>0</subtasks>
+		<subtaskscomplete>0</subtaskscomplete>
+		<color>#bf6060</color>
+		<priority>Average</priority>
+		<size></size>
+		<deadline></deadline>
+		<extlink></extlink>
+		<tags></tags>
+		<leadtime>5</leadtime>
+		<blocked>0</blocked>
+		<blockedreason></blockedreason>
+		<columnname>Done</columnname>
+		<lanename>Default Swimlane</lanename>
+		<subtaskdetails>none</subtaskdetails>
+		<columnid>done_3</columnid>
+		<laneid>4</laneid>
+		<loggedtime>0</loggedtime>
+		<comments>none</comments>
+		<transitions>
+			<column>Backlog</column>
+			<start>2013-08-22 16:50:01</start>
+			<end>2013-08-23 05:02:04</end>
+			<elapsedtime>43923</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Requested</column>
+			<start>2013-08-23 05:02:04</start>
+			<end>2013-08-23 07:35:07</end>
+			<elapsedtime>9183</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>In Progress</column>
+			<start>2013-08-23 07:35:07</start>
+			<end>2013-08-23 07:43:31</end>
+			<elapsedtime>504</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Done</column>
+			<start>2013-08-23 07:43:31</start>
+			<end>now</end>
+			<elapsedtime>361715</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+		</transitions>
+	</task>
+	<task>
+		<taskid>56</taskid>
+		<title>As a user I want to keep the original filename, incrementing only the .bak, so that I can reuse the input file without changing its name</title>
+		<description></description>
+		<type>Feature request</type>
+		<assignee>nobrega</assignee>
+		<subtasks>0</subtasks>
+		<subtaskscomplete>0</subtaskscomplete>
+		<color>#809f80</color>
+		<priority>Average</priority>
+		<size></size>
+		<deadline></deadline>
+		<extlink></extlink>
+		<tags></tags>
+		<leadtime>8</leadtime>
+		<blocked>0</blocked>
+		<blockedreason></blockedreason>
+		<columnname>Done</columnname>
+		<lanename>Default Swimlane</lanename>
+		<subtaskdetails>none</subtaskdetails>
+		<columnid>done_3</columnid>
+		<laneid>4</laneid>
+		<loggedtime>0</loggedtime>
+		<comments>none</comments>
+		<transitions>
+			<column>Backlog</column>
+			<start>2013-08-19 16:34:59</start>
+			<end>2013-08-20 16:14:49</end>
+			<elapsedtime>85190</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Requested</column>
+			<start>2013-08-20 16:14:49</start>
+			<end>2013-08-23 09:24:00</end>
+			<elapsedtime>234551</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>In Progress</column>
+			<start>2013-08-23 09:24:00</start>
+			<end>2013-08-23 17:47:38</end>
+			<elapsedtime>30218</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Done</column>
+			<start>2013-08-23 17:47:38</start>
+			<end>now</end>
+			<elapsedtime>325468</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+		</transitions>
+	</task>
+	<task>
+		<taskid>57</taskid>
+		<title>As a user I want the GUI to be neat</title>
+		<description>was As a user I want the title &#39;Protê&#39; with a neat color and fontPlease check:- window name (tk)OK - application title (Protê)OK - controls arrangementOK - window size</description>
+		<type>Feature request</type>
+		<assignee>nobrega</assignee>
+		<subtasks>0</subtasks>
+		<subtaskscomplete>0</subtaskscomplete>
+		<color>#809f80</color>
+		<priority>Average</priority>
+		<size></size>
+		<deadline></deadline>
+		<extlink></extlink>
+		<tags></tags>
+		<leadtime>7</leadtime>
+		<blocked>0</blocked>
+		<blockedreason></blockedreason>
+		<columnname>Done</columnname>
+		<lanename>Default Swimlane</lanename>
+		<subtaskdetails>none</subtaskdetails>
+		<columnid>done_3</columnid>
+		<laneid>4</laneid>
+		<loggedtime>0</loggedtime>
+		<comments>none</comments>
+		<transitions>
+			<column>Backlog</column>
+			<start>2013-08-20 16:13:01</start>
+			<end>2013-08-20 16:14:53</end>
+			<elapsedtime>112</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Requested</column>
+			<start>2013-08-20 16:14:53</start>
+			<end>2013-08-27 11:28:18</end>
+			<elapsedtime>587605</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>In Progress</column>
+			<start>2013-08-27 11:28:18</start>
+			<end>2013-08-27 11:54:08</end>
+			<elapsedtime>1550</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Done</column>
+			<start>2013-08-27 11:54:08</start>
+			<end>now</end>
+			<elapsedtime>1078</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+		</transitions>
+	</task>
+	<task>
+		<taskid>60</taskid>
+		<title>As a developer I want the class diagram to be updated/finalized</title>
+		<description></description>
+		<type>Feature request</type>
+		<assignee>nobrega</assignee>
+		<subtasks>0</subtasks>
+		<subtaskscomplete>0</subtaskscomplete>
+		<color>#99b3e6</color>
+		<priority>Average</priority>
+		<size></size>
+		<deadline></deadline>
+		<extlink></extlink>
+		<tags></tags>
+		<leadtime>4</leadtime>
+		<blocked>0</blocked>
+		<blockedreason></blockedreason>
+		<columnname>Done</columnname>
+		<lanename>Default Swimlane</lanename>
+		<subtaskdetails>none</subtaskdetails>
+		<columnid>done_3</columnid>
+		<laneid>4</laneid>
+		<loggedtime>0</loggedtime>
+		<comments>none</comments>
+		<transitions>
+			<column>Backlog</column>
+			<start>2013-08-23 17:48:36</start>
+			<end>2013-08-23 17:48:44</end>
+			<elapsedtime>8</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Requested</column>
+			<start>2013-08-23 17:48:44</start>
+			<end>2013-08-27 11:54:12</end>
+			<elapsedtime>324328</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>In Progress</column>
+			<start>2013-08-27 11:54:12</start>
+			<end>2013-08-27 12:11:47</end>
+			<elapsedtime>1055</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+			<column>Done</column>
+			<start>2013-08-27 12:11:47</start>
+			<end>now</end>
+			<elapsedtime>19</elapsedtime>
+			<loggedtime>0.00</loggedtime>
+		</transitions>
+	</task>
+</root>
